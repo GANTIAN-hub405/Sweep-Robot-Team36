@@ -1,2 +1,1 @@
-Sweep Robot  Team36
-1.introduce
+# [Sweep Robot](https://github.com/quboyue/Sweep-Robot-Team36)
