@@ -1,10 +1,54 @@
-[Sweep-Robot](https://github.com/quboyue/Sweep-Robot-Team36)
+<h2 align="center">Sweep-Robot</h2>  
+
+<div align=center><img width="350" height="350" src="https://github.com/GANTIAN-hub405/picutre/blob/main/sweep-robot.jpg"/></div>
+
+ <p align = "center">  
+     <a href = "https://www.youtube.com/channel/UCdpiw0mUYiLdALUTy5392jA"><img height=40 src="images/youtube.svg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="https://twitter.com/home"><img height=40 src="images/twitter.svg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+     <br />
+     <br />
+     
+     
+
+
+  
+[![Contributors](https://img.shields.io/github/contributors/quboyue/Sweep-Robot-Team36.svg?style=for-the-badge)](https://github.com/quboyue/Sweep-Robot-Team36/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/quboyue/Sweep-Robot-Team36.svg?style=for-the-badge)](https://github.com/quboyue/Sweep-Robot-Team36/network/members)
+[![Stars](https://img.shields.io/github/stars/quboyue/Sweep-Robot-Team36.svg?style=for-the-badge)](https://github.com/quboyue/Sweep-Robot-Team36/stargazers)
+[![Issues](https://img.shields.io/github/issues/quboyue/Sweep-Robot-Team36.svg?style=for-the-badge)](https://github.com/quboyue/Sweep-Robot-Team36/issues)
+
+
+<!-- TABLE OF CONTENTS -->
+
+## Table of contents
+
+<ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+      <ul>
+      <li><a href="#software">Software</a</li>
+      <li><a href="#hardware">Hardware</a</li>
+      <li><a href="#schematics">Schematics</a</li>
+       <li><a href="#roadmap">Roadmap</a</li>
+      </ul>
+    <li><a href="#getting-started">Getting Started</a></li>
+      <ul>
+      <li><a href="#algorithm ">Algorithm</a</li>
+      </ul>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+</ol>
 
 
 
-<img width="350" height="350" src="https://github.com/GANTIAN-hub405/picutre/blob/main/sweep-robot.jpg"/></div>
 
- 
+
+
+
+
+
+     
+     
 
 # About the project
 
@@ -23,7 +67,7 @@ The sweep-robot is a simple, small Robot.It scans a memory map to carry out swee
 - Radar
 - 3D drift
 - 
-### Schematics:
+## Schematics:
 
 ## Roadmap
 
@@ -32,7 +76,7 @@ The sweep-robot is a simple, small Robot.It scans a memory map to carry out swee
 
 
 
-# algorithm 
+## Algorithm 
  - ICP
  - MCL
  
