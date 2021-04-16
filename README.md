@@ -41,7 +41,7 @@
 
 ## About the project
 
-The sweep-robot is a simple, small Robot.It scans a memory map to carry out sweeping movements in accessible areas.
+The project is based on the Raspberry Pi 3, using 3D printing model and LIDAR scanning to realize the obstacle avoidance movement of the robot, and to remember the movement trajectory.
 
 
 ### Software
@@ -52,7 +52,8 @@ The sweep-robot is a simple, small Robot.It scans a memory map to carry out swee
 
 ### Hardware 
 - Raspberry Pi 3 Model B
-- Radar (slamtec a1m8-r5)
+- Sensor  
+     Radar (slamtec a1m8-r5)
 - [3D drift](https://github.com/quboyue/Sweep-Robot-Team36/blob/main/Car_model.stl)  
 
 
@@ -94,6 +95,7 @@ See the [open issues](https://img.shields.io/github/issues/quboyue/Sweep-Robot-T
  - [Twitter](https://twitter.com/home)
 
 ## Contact
+This project is being completed by a team of students at the University of Glasgow:
 Qu Boyue- [@Quboyue](quboyue@gmail.com)
 
 Gan Tian - [@Gantian](https://twitter.com/GanTian10640151)
