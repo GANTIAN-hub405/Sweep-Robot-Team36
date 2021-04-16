@@ -92,3 +92,8 @@ The sweep-robot is a simple, small Robot.It scans a memory map to carry out swee
 # Contributing
 # License
 # Contact
+Qu Boyue- [@Quboyue](https://twitter.com/jhewers)
+
+Gan Tian - [@Gantian](https://twitter.com/GanTian10640151)
+
+Bai Xiaochen - [@Baixiaochen](https://twitter.com/13Darcer)
