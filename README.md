@@ -60,12 +60,14 @@ The sweep-robot is a simple, small Robot.It scans a memory map to carry out swee
 - Radar (slamtec a1m8-r5)
 - [3D drift](https://github.com/quboyue/Sweep-Robot-Team36/blob/main/Car_model.stl)  
 
- <div align=center><img width="550" height="400" src="https://github.com/GANTIAN-hub405/picutre/blob/main/3D.png"/></div>
+
+<img width="550" height="400" src="https://github.com/GANTIAN-hub405/picutre/blob/main/3D.png"/></div>
 
 
 ### Test_map:
 
-<div align=center><img width="550" height="400" src="https://github.com/GANTIAN-hub405/picutre/blob/main/map.png"/></div>
+
+<img width="550" height="400" src="https://github.com/GANTIAN-hub405/picutre/blob/main/map.png"/></div>
 
 ### Roadmap
 
