@@ -10,13 +10,13 @@
      
      
 
-
+<div align="center">
   
 [![Contributors](https://img.shields.io/github/contributors/quboyue/Sweep-Robot-Team36.svg?style=for-the-badge)](https://github.com/quboyue/Sweep-Robot-Team36/graphs/contributors)
 [![Forks](https://img.shields.io/github/forks/quboyue/Sweep-Robot-Team36.svg?style=for-the-badge)](https://github.com/quboyue/Sweep-Robot-Team36/network/members)
 [![Stars](https://img.shields.io/github/stars/quboyue/Sweep-Robot-Team36.svg?style=for-the-badge)](https://github.com/quboyue/Sweep-Robot-Team36/stargazers)
 [![Issues](https://img.shields.io/github/issues/quboyue/Sweep-Robot-Team36.svg?style=for-the-badge)](https://github.com/quboyue/Sweep-Robot-Team36/issues)
-
+</div>
 
 <!-- TABLE OF CONTENTS -->
 
