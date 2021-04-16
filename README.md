@@ -65,7 +65,7 @@ The sweep-robot is a simple, small Robot.It scans a memory map to carry out swee
 <img width="550" height="400" src="https://github.com/GANTIAN-hub405/picutre/blob/main/map.png"/></div>
 
 ### Roadmap
-
+See the [open issues](https://img.shields.io/github/issues/quboyue/Sweep-Robot-Team36.svg?style=for-the-badge) for a list of proposed features (and known issues).
 
 ## Getting Started
 
