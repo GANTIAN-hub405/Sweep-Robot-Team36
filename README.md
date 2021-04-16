@@ -1,6 +1,10 @@
 <h2 align="center">Sweep-Robot</h2>  
 
-<div align=center><img width="350" height="350" src="https://github.com/GANTIAN-hub405/picutre/blob/main/sweep-robot.jpg"/></div>
+
+
+<div align=center><img width="550" height="400" src="https://github.com/GANTIAN-hub405/picutre/blob/main/sweep-robot.jpg"/></div>
+
+
 
  <p align = "center">  
      <a href = "https://www.youtube.com/channel/UCdpiw0mUYiLdALUTy5392jA"><img height=40 src="images/youtube.svg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,7 +31,7 @@
       <ul>
       <li><a href="#software">Software</a</li>
       <li><a href="#hardware">Hardware</a</li>
-      <li><a href="#schematics">Schematics</a</li>
+      <li><a href="#test_map">Test_map</a</li>
        <li><a href="#roadmap">Roadmap</a</li>
       </ul>
     <li><a href="#getting-started">Getting Started</a></li>
@@ -38,16 +42,6 @@
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
 </ol>
-
-
-
-
-
-
-
-
-
-     
      
 
 ## About the project
@@ -55,19 +49,23 @@
 The sweep-robot is a simple, small Robot.It scans a memory map to carry out sweeping movements in accessible areas.
 
 
-
 ### Software
 
 - [Opencv 4.5.1](https://opencv.org/opencv-4-5-1/)
 - Python GPIO
-- result
+
 
 ### Hardware 
-- Raspberry Pi 4 Model B
-- Radar
-- 3D drift
-- 
-### Schematics:
+- Raspberry Pi 3 Model B
+- Radar (slamtec a1m8-r5)
+- [3D drift](https://github.com/quboyue/Sweep-Robot-Team36/blob/main/Car_model.stl)  
+
+ <div align=center><img width="550" height="400" src="https://github.com/GANTIAN-hub405/picutre/blob/main/3D.png"/></div>
+
+
+### Test_map:
+
+<div align=center><img width="550" height="400" src="https://github.com/GANTIAN-hub405/picutre/blob/main/map.png"/></div>
 
 ### Roadmap
 
@@ -96,4 +94,4 @@ Qu Boyue- [@Quboyue](quboyue@gmail.com)
 
 Gan Tian - [@Gantian](https://twitter.com/GanTian10640151)
 
-Bai Xiaochen - [@Baixiaochen](690886429@qq.com)
+Bai Xiaochen - [@Baixiaochen](nukobaixiaochen@gmail.com)
