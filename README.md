@@ -5,15 +5,6 @@
 <div align=center><img width="550" height="400" src="https://github.com/GANTIAN-hub405/picutre/blob/main/sweep-robot.jpg"/></div>
 
 
-
- <p align = "center">  
-     <a href = "https://www.youtube.com/channel/UCdpiw0mUYiLdALUTy5392jA"><img height=40 src="images/youtube.svg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://twitter.com/home"><img height=40 src="images/twitter.svg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
-     <br />
-     <br />
-     
-     
-
 <div align="center">
   
 [![Contributors](https://img.shields.io/github/contributors/quboyue/Sweep-Robot-Team36.svg?style=for-the-badge)](https://github.com/quboyue/Sweep-Robot-Team36/graphs/contributors)
@@ -40,9 +31,13 @@
       </ul>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
+    <li><a href="#social Media and Outreach">Social Media and Outreach</a></li>
     <li><a href="#contact">Contact</a></li>
 </ol>
      
+
+
+
 
 ## About the project
 
@@ -91,6 +86,11 @@ The sweep-robot is a simple, small Robot.It scans a memory map to carry out swee
 
 ## Contributing
 ## License
+## Social Media and Outreach
+ Follow our social channels to keep up to date with our branding and public outreach.
+ - [Youtube](https://www.youtube.com/channel/UCdpiw0mUYiLdALUTy5392jA)
+ - [Twitter](https://twitter.com/home)
+
 ## Contact
 Qu Boyue- [@Quboyue](quboyue@gmail.com)
 
