@@ -35,7 +35,7 @@
     <li><a href="#contact">Contact</a></li>
 </ol>
      
-
+***
 
 
 
@@ -67,6 +67,8 @@ The sweep-robot is a simple, small Robot.It scans a memory map to carry out swee
 ### Roadmap
 See the [open issues](https://img.shields.io/github/issues/quboyue/Sweep-Robot-Team36.svg?style=for-the-badge) for a list of proposed features (and known issues).
 
+
+***
 ## Getting Started
 
 
@@ -83,7 +85,7 @@ See the [open issues](https://img.shields.io/github/issues/quboyue/Sweep-Robot-T
  
    This is an algorithm that plans out specific action strategies for the robot in a part of map after obtaining the information of destination. The principle is to sample        several groups of velocities and simulate the motion trajectory of the robot in a certain time at these velocities. Then an evaluation function is used to score these          trajectories to exclude collision trajectories and select the speed corresponding to the optimal trajectory to drive the robot.
 
-
+***
 ## Contributing
 ## License
 ## Social Media and Outreach
