@@ -20,7 +20,7 @@
 
 <!-- TABLE OF CONTENTS -->
 
-## Table of contents
+# Table of contents
 
 <ol>
     <li><a href="#about-the-project">About The Project</a></li>
@@ -50,33 +50,33 @@
      
      
 
-# About the project
+## About the project
 
 The sweep-robot is a simple, small Robot.It scans a memory map to carry out sweeping movements in accessible areas.
 
 
 
-## Software
+### Software
 
 - [Opencv 4.5.1](https://opencv.org/opencv-4-5-1/)
 - Python GPIO
 - result
 
-## Hardware 
+### Hardware 
 - Raspberry Pi 4 Model B
 - Radar
 - 3D drift
 - 
-## Schematics:
+### Schematics:
 
-## Roadmap
-
-
-# Getting Started
+### Roadmap
 
 
+## Getting Started
 
-## Algorithm 
+
+
+### Algorithm 
  - ICP
  - MCL
  
@@ -89,9 +89,9 @@ The sweep-robot is a simple, small Robot.It scans a memory map to carry out swee
    This is an algorithm that plans out specific action strategies for the robot in a part of map after obtaining the information of destination. The principle is to sample        several groups of velocities and simulate the motion trajectory of the robot in a certain time at these velocities. Then an evaluation function is used to score these          trajectories to exclude collision trajectories and select the speed corresponding to the optimal trajectory to drive the robot.
 
 
-# Contributing
-# License
-# Contact
+## Contributing
+## License
+## Contact
 Qu Boyue- [@Quboyue](quboyue@gmail.com)
 
 Gan Tian - [@Gantian](https://twitter.com/GanTian10640151)
