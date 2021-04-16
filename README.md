@@ -32,7 +32,7 @@
       </ul>
     <li><a href="#getting-started">Getting Started</a></li>
       <ul>
-      <li><a href="#algorithm ">Algorithm</a</li>
+      <li><a href="#algorithm">Algorithm</a</li>
       </ul>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -92,8 +92,8 @@ The sweep-robot is a simple, small Robot.It scans a memory map to carry out swee
 # Contributing
 # License
 # Contact
-Qu Boyue- [@Quboyue](https://twitter.com/jhewers)
+Qu Boyue- [@Quboyue](quboyue@gmail.com)
 
 Gan Tian - [@Gantian](https://twitter.com/GanTian10640151)
 
-Bai Xiaochen - [@Baixiaochen](https://twitter.com/13Darcer)
+Bai Xiaochen - [@Baixiaochen](https://twitter.com)
