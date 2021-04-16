@@ -95,7 +95,7 @@ See the [open issues](https://img.shields.io/github/issues/quboyue/Sweep-Robot-T
  - [Twitter](https://twitter.com/home)
 
 ## Contact
-This project is being completed by a team of students at the University of Glasgow:
+This project is being completed by a team of students at the University of Glasgow:  
 Qu Boyue- [@Quboyue](quboyue@gmail.com)
 
 Gan Tian - [@Gantian](https://twitter.com/GanTian10640151)
