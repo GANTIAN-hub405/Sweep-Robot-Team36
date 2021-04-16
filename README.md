@@ -96,4 +96,4 @@ Qu Boyue- [@Quboyue](quboyue@gmail.com)
 
 Gan Tian - [@Gantian](https://twitter.com/GanTian10640151)
 
-Bai Xiaochen - [@Baixiaochen](https://twitter.com)
+Bai Xiaochen - [@Baixiaochen](690886429@qq.com)
