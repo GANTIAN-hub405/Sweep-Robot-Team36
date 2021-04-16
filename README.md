@@ -41,7 +41,7 @@
 
 ## About the project
 
-The project is based on the Raspberry Pi 3, using 3D printing model and LIDAR scanning to realize the obstacle avoidance movement of the robot, and to remember the movement trajectory.
+The project is based on the **Raspberry Pi 3**, using **3D printing model** and **LIDAR** scanning to realize the obstacle avoidance movement of the robot, and to remember the movement trajectory.
 
 
 ### Software
@@ -51,8 +51,8 @@ The project is based on the Raspberry Pi 3, using 3D printing model and LIDAR sc
 
 
 ### Hardware 
-- Raspberry Pi 3 Model B
-- Sensor  
+- **Raspberry Pi 3 Model B**
+- **Sensor**  
      Radar (slamtec a1m8-r5)
 - [3D drift](https://github.com/quboyue/Sweep-Robot-Team36/blob/main/Car_model.stl)  
 
@@ -75,16 +75,13 @@ See the [open issues](https://img.shields.io/github/issues/quboyue/Sweep-Robot-T
 
 
 ### Algorithm 
- - ICP
- - MCL
- 
-   This is an algorithm that calculates the position of a robot in a known map. The principle of this algorithm is to simulate a group of particles that have the same movement    as the robot. Each particle is given a certain probability by comparing the sensor data of robot with the simulated sensor data of the particles. After several iterations,      the particles will converge to a position, which is the exact position of the robot in the map.
-
- - Floodfill
- - DFS 
- - DWA 
- 
-   This is an algorithm that plans out specific action strategies for the robot in a part of map after obtaining the information of destination. The principle is to sample        several groups of velocities and simulate the motion trajectory of the robot in a certain time at these velocities. Then an evaluation function is used to score these          trajectories to exclude collision trajectories and select the speed corresponding to the optimal trajectory to drive the robot.
+ - **ICP**
+ - **MCL**  
+  This is an algorithm that calculates the position of a robot in a known map. The principle of this algorithm is to simulate a group of particles that have the same movement   as the robot. Each particle is given a certain probability by comparing the sensor data of robot with the simulated sensor data of the particles. After several iterations,   the particles will converge to a position, which is the exact position of the robot in the map.
+ - **Floodfill**
+ - **DFS **
+ - **DWA**   
+   This is an algorithm that plans out specific action strategies for the robot in a part of map after obtaining the information of destination. The principle is to sample      several groups of velocities and simulate the motion trajectory of the robot in a certain time at these velocities. Then an evaluation function is used to score these        trajectories to exclude collision trajectories and select the speed corresponding to the optimal trajectory to drive the robot.
 
 ***
 ## Contributing
