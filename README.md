@@ -90,8 +90,28 @@ See the [open issues](https://img.shields.io/github/issues/quboyue/Sweep-Robot-T
   **Prerequists:**  
   1. install opencv-4.5.1  
      ```  
-       pip install opencv-4.5.1  
-     ```
+     //Install the necessary build tools and common toolkits  
+     
+      sudo apt-get install build-essential cmake git pkg-config  
+      sudo apt-get install libjpeg8-dev  
+      sudo apt-get install libtiff5-dev  
+      sudo apt-get install libjasper-dev  
+      sudo apt-get install libpng12-dev  
+      sudo apt-get install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev  
+      sudo apt-get install libgtk2.0-dev  
+      sudo apt-get install libatlas-base-dev gfortran  
+      
+      //Download the opencv  
+      
+      wget -O opencv-4.5.1.zip https://github.com/Itseez/opencv/archive/4.5.1.zip  
+      unzip opencv-4.5.1.zip  
+      wget -O opencv_contrib-4.5.1.zip https://github.com/Itseez/opencv_contrib/archive/4.5.1.zip  
+      unzip opencv_contrib-4.5.1.zip  
+      
+      //  Will download the source decompression, and enter the source directory in the terminal
+      cd ~/opencv-4.5.1  
+     ```  
+     
   3. install wiringPi  
    ```  
      git clone https://github.com/WiringPi/WiringPi.git
