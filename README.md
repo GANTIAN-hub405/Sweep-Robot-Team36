@@ -77,9 +77,9 @@ The project is based on the **Raspberry Pi 3**, using **3D printing model** and 
 
 ### Test_map:
 
-[![Test_road_map](https://github.com/GANTIAN-hub405/picutre/blob/main/map.png)](https://youtu.be/WlX7A8LnEmQ)
+[![Test_road_map](https://github.com/GANTIAN-hub405/picutre/blob/main/map1.jpg)](https://youtu.be/WlX7A8LnEmQ)
 
-<img width="550" height="400" src="https://github.com/GANTIAN-hub405/picutre/blob/main/map.png"/></div>
+
 
 ### Roadmap
 See the [open issues](https://img.shields.io/github/issues/quboyue/Sweep-Robot-Team36.svg?style=for-the-badge) for a list of proposed features (and known issues).
