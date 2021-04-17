@@ -138,6 +138,21 @@ See the [open issues](https://img.shields.io/github/issues/quboyue/Sweep-Robot-T
     
 
 
+## Project  
+
+## Description: 
+1.  Easy to run the visual program  
+2.  Make mobile phone control APP  
+3.  Easier to use Python motor drive  
+4.  Use the phone's electronic compass instead of the chip  
+5.  Optimize multithreading sequencing problems (use more semaphore assist mutexes)  
+6.  Optimize access to critical area resources
+
+
+
+***
+
+
 
 
 ## Contributing  
