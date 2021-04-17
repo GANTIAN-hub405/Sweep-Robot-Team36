@@ -86,7 +86,36 @@ See the [open issues](https://img.shields.io/github/issues/quboyue/Sweep-Robot-T
 
 
 ***
-## Getting Started
+## Getting Started  
+  **Prerequists:**  
+  1. install opencv-4.5.1  
+     ```  
+       pip install opencv-4.5.1  
+     ```
+  3. install wiringPi  
+   ```  
+     git clone https://github.com/WiringPi/WiringPi.git
+     cd ./WiringPi
+     ./build
+   ```
+  
+  **(optional): Python**  
+```  
+     sudo apt-get install python3-rpi.gpio  
+```
+  **Installation**  
+```  
+    git clone https://github.com/quboyue/Sweep-Robot-Team36.git
+		cd Sweep-Robot-Team36/Sweep_Robot/build
+		sudo camke ..
+		make  
+```  
+  **Usage**  
+```  
+   ./main  
+```
+
+    
 
 
 
