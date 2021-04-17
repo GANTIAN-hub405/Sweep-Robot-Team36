@@ -77,7 +77,7 @@ The project is based on the **Raspberry Pi 3**, using **3D printing model** and 
 
 ### Test_map:
 
-[![Test_road_map](https://github.com/GANTIAN-hub405/picutre/blob/main/testwrite.avi)](https://youtu.be/WlX7A8LnEmQ)
+[![Test_road_map](https://github.com/GANTIAN-hub405/picutre/blob/main/map_road.gif)](https://youtu.be/WlX7A8LnEmQ)
 
 <img width="550" height="400" src="https://github.com/GANTIAN-hub405/picutre/blob/main/map.png"/></div>
 
