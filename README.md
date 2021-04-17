@@ -26,7 +26,7 @@
         </ul>
       <li><a href="#hardware">Hardware</a</li>
       <li><a href="#test_map">Test_map</a</li>
-       <li><a href="#roadmap">Roadmap</a</li>
+      <li><a href="#roadmap">Roadmap</a</li>
       </ul>
     <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -64,11 +64,12 @@ The project is based on the **Raspberry Pi 3**, using **3D printing model** and 
 - [Raspberry Pi 3 Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
 - **Sensor**  
      [Radar](https://www.slamtec.com/en/) (slamtec a1m8-r5)
-- [electronic compass]()（QMC5883）
-- [42 Stepper motor]()（424812）
-- []()
+- [electronic compass module](https://www.amazon.com/QMC5883-Electronic-Compass-Three-axis-Magnetic/dp/B07ZR79HGS)（QMC5883）
+- [2*42 Stepper motor](https://www.amazon.com/3D-Printer-printer-4248-450-Stepper/dp/B07L1RMWZR/ref=sr_1_3?dchild=1&keywords=4248+Stepper+motor&qid=1618642588&sr=8-3)（424812）
+- 2*Motor Driver(DM422)
+- Mobile Power Supply
+- Electric Level Transform Chip
 - [3D drift](https://github.com/quboyue/Sweep-Robot-Team36/blob/main/Car_model.stl)  
-
 
 <img width="550" height="400" src="https://github.com/GANTIAN-hub405/picutre/blob/main/3D.png"/></div>
 
@@ -91,12 +92,12 @@ See the [open issues](https://img.shields.io/github/issues/quboyue/Sweep-Robot-T
 ## Contributing  
 if you wish to contribute, please follow the following steps:  
 
-Fork the project repository
-Clone or download the project repository
-Create a new branch
-Make suitable changes and commit them
-Push the changes
-Submit a pull request  
+1. Fork the project repository
+2. Clone or download the project repository
+3. Create a new branch
+4. Make suitable changes and commit them
+5. Push the changes
+6. Submit a pull request  
 
 If you are unsure about how to contribute, spot any problems or have suggestions on how we can improve, feel free to get in touch with us, our contact details can be found in the contact section.  
 
