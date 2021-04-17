@@ -31,7 +31,7 @@
     <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#social Media and Outreach">Social Media and Outreach</a></li>
+    <li><a href="#social-Media">Social-Media</a></li>
     <li><a href="#contact">Contact</a></li>
 </ol>
      
@@ -104,8 +104,8 @@ If you are unsure about how to contribute, spot any problems or have suggestions
 ## License  
 Project is distributed under MIT License  
 
-## Social Media and Outreach
- Follow our social channels to keep up to date with our branding and public outreach.
+## Social-Media
+ Follow our social channels to keep up to date with our branding.
  - [Youtube](https://www.youtube.com/channel/UCdpiw0mUYiLdALUTy5392jA)
  - [Twitter](https://twitter.com/home)
 
